@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MoslemApps/Al-Qur-an/static/css/main.186c6e75.chunk.css",
-    "main.js": "/MoslemApps/Al-Qur-an/static/js/main.8094a142.chunk.js",
-    "main.js.map": "/MoslemApps/Al-Qur-an/static/js/main.8094a142.chunk.js.map",
+    "main.js": "/MoslemApps/Al-Qur-an/static/js/main.3ae28ed3.chunk.js",
+    "main.js.map": "/MoslemApps/Al-Qur-an/static/js/main.3ae28ed3.chunk.js.map",
     "runtime-main.js": "/MoslemApps/Al-Qur-an/static/js/runtime-main.ccdfb7d7.js",
     "runtime-main.js.map": "/MoslemApps/Al-Qur-an/static/js/runtime-main.ccdfb7d7.js.map",
     "static/js/2.ba84a865.chunk.js": "/MoslemApps/Al-Qur-an/static/js/2.ba84a865.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.ccdfb7d7.js",
     "static/js/2.ba84a865.chunk.js",
     "static/css/main.186c6e75.chunk.css",
-    "static/js/main.8094a142.chunk.js"
+    "static/js/main.3ae28ed3.chunk.js"
   ]
 }
