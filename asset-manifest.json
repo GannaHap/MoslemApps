@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MoslemApps/static/css/main.186c6e75.chunk.css",
-    "main.js": "/MoslemApps/static/js/main.28136a8b.chunk.js",
-    "main.js.map": "/MoslemApps/static/js/main.28136a8b.chunk.js.map",
-    "runtime-main.js": "/MoslemApps/static/js/runtime-main.fe502687.js",
-    "runtime-main.js.map": "/MoslemApps/static/js/runtime-main.fe502687.js.map",
-    "static/js/2.ba84a865.chunk.js": "/MoslemApps/static/js/2.ba84a865.chunk.js",
-    "static/js/2.ba84a865.chunk.js.map": "/MoslemApps/static/js/2.ba84a865.chunk.js.map",
-    "static/js/3.d07830e1.chunk.js": "/MoslemApps/static/js/3.d07830e1.chunk.js",
-    "static/js/3.d07830e1.chunk.js.map": "/MoslemApps/static/js/3.d07830e1.chunk.js.map",
-    "index.html": "/MoslemApps/index.html",
-    "static/css/main.186c6e75.chunk.css.map": "/MoslemApps/static/css/main.186c6e75.chunk.css.map",
-    "static/js/2.ba84a865.chunk.js.LICENSE.txt": "/MoslemApps/static/js/2.ba84a865.chunk.js.LICENSE.txt",
-    "static/media/Abdur-Rahman as-Sudais.ad3dff67.png": "/MoslemApps/static/media/Abdur-Rahman as-Sudais.ad3dff67.png",
-    "static/media/Saad al-Ghamdi.ca66ec22.png": "/MoslemApps/static/media/Saad al-Ghamdi.ca66ec22.png",
-    "static/media/quran.2c7b7dec.png": "/MoslemApps/static/media/quran.2c7b7dec.png"
+    "main.css": "/MoslemApps/Al-Qur-an/static/css/main.186c6e75.chunk.css",
+    "main.js": "/MoslemApps/Al-Qur-an/static/js/main.8094a142.chunk.js",
+    "main.js.map": "/MoslemApps/Al-Qur-an/static/js/main.8094a142.chunk.js.map",
+    "runtime-main.js": "/MoslemApps/Al-Qur-an/static/js/runtime-main.ccdfb7d7.js",
+    "runtime-main.js.map": "/MoslemApps/Al-Qur-an/static/js/runtime-main.ccdfb7d7.js.map",
+    "static/js/2.ba84a865.chunk.js": "/MoslemApps/Al-Qur-an/static/js/2.ba84a865.chunk.js",
+    "static/js/2.ba84a865.chunk.js.map": "/MoslemApps/Al-Qur-an/static/js/2.ba84a865.chunk.js.map",
+    "static/js/3.d07830e1.chunk.js": "/MoslemApps/Al-Qur-an/static/js/3.d07830e1.chunk.js",
+    "static/js/3.d07830e1.chunk.js.map": "/MoslemApps/Al-Qur-an/static/js/3.d07830e1.chunk.js.map",
+    "index.html": "/MoslemApps/Al-Qur-an/index.html",
+    "static/css/main.186c6e75.chunk.css.map": "/MoslemApps/Al-Qur-an/static/css/main.186c6e75.chunk.css.map",
+    "static/js/2.ba84a865.chunk.js.LICENSE.txt": "/MoslemApps/Al-Qur-an/static/js/2.ba84a865.chunk.js.LICENSE.txt",
+    "static/media/Abdur-Rahman as-Sudais.ad3dff67.png": "/MoslemApps/Al-Qur-an/static/media/Abdur-Rahman as-Sudais.ad3dff67.png",
+    "static/media/Saad al-Ghamdi.ca66ec22.png": "/MoslemApps/Al-Qur-an/static/media/Saad al-Ghamdi.ca66ec22.png",
+    "static/media/quran.2c7b7dec.png": "/MoslemApps/Al-Qur-an/static/media/quran.2c7b7dec.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe502687.js",
+    "static/js/runtime-main.ccdfb7d7.js",
     "static/js/2.ba84a865.chunk.js",
     "static/css/main.186c6e75.chunk.css",
-    "static/js/main.28136a8b.chunk.js"
+    "static/js/main.8094a142.chunk.js"
   ]
 }
