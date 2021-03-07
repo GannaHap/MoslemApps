@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MoslemApps/static/css/main.186c6e75.chunk.css",
-    "main.js": "/MoslemApps/static/js/main.e0977c13.chunk.js",
-    "main.js.map": "/MoslemApps/static/js/main.e0977c13.chunk.js.map",
+    "main.js": "/MoslemApps/static/js/main.3648e4df.chunk.js",
+    "main.js.map": "/MoslemApps/static/js/main.3648e4df.chunk.js.map",
     "runtime-main.js": "/MoslemApps/static/js/runtime-main.3141e7ce.js",
     "runtime-main.js.map": "/MoslemApps/static/js/runtime-main.3141e7ce.js.map",
     "static/js/2.368f76b5.chunk.js": "/MoslemApps/static/js/2.368f76b5.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.3141e7ce.js",
     "static/js/2.368f76b5.chunk.js",
     "static/css/main.186c6e75.chunk.css",
-    "static/js/main.e0977c13.chunk.js"
+    "static/js/main.3648e4df.chunk.js"
   ]
 }
