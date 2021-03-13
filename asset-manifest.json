@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MoslemApps/static/css/main.3c0f1a78.chunk.css",
-    "main.js": "/MoslemApps/static/js/main.3b408cd2.chunk.js",
-    "main.js.map": "/MoslemApps/static/js/main.3b408cd2.chunk.js.map",
-    "runtime-main.js": "/MoslemApps/static/js/runtime-main.3141e7ce.js",
-    "runtime-main.js.map": "/MoslemApps/static/js/runtime-main.3141e7ce.js.map",
-    "static/js/2.ac950b08.chunk.js": "/MoslemApps/static/js/2.ac950b08.chunk.js",
-    "static/js/2.ac950b08.chunk.js.map": "/MoslemApps/static/js/2.ac950b08.chunk.js.map",
-    "static/js/3.c47c3ee7.chunk.js": "/MoslemApps/static/js/3.c47c3ee7.chunk.js",
-    "static/js/3.c47c3ee7.chunk.js.map": "/MoslemApps/static/js/3.c47c3ee7.chunk.js.map",
+    "main.css": "/MoslemApps/static/css/main.eb3253d7.chunk.css",
+    "main.js": "/MoslemApps/static/js/main.0590f359.chunk.js",
+    "main.js.map": "/MoslemApps/static/js/main.0590f359.chunk.js.map",
+    "runtime-main.js": "/MoslemApps/static/js/runtime-main.2e0f6259.js",
+    "runtime-main.js.map": "/MoslemApps/static/js/runtime-main.2e0f6259.js.map",
+    "static/js/2.46c4933c.chunk.js": "/MoslemApps/static/js/2.46c4933c.chunk.js",
+    "static/js/2.46c4933c.chunk.js.map": "/MoslemApps/static/js/2.46c4933c.chunk.js.map",
+    "static/js/3.acab317f.chunk.js": "/MoslemApps/static/js/3.acab317f.chunk.js",
+    "static/js/3.acab317f.chunk.js.map": "/MoslemApps/static/js/3.acab317f.chunk.js.map",
     "index.html": "/MoslemApps/index.html",
-    "static/css/main.3c0f1a78.chunk.css.map": "/MoslemApps/static/css/main.3c0f1a78.chunk.css.map",
-    "static/js/2.ac950b08.chunk.js.LICENSE.txt": "/MoslemApps/static/js/2.ac950b08.chunk.js.LICENSE.txt",
+    "static/css/main.eb3253d7.chunk.css.map": "/MoslemApps/static/css/main.eb3253d7.chunk.css.map",
+    "static/js/2.46c4933c.chunk.js.LICENSE.txt": "/MoslemApps/static/js/2.46c4933c.chunk.js.LICENSE.txt",
     "static/media/Abdur-Rahman as-Sudais.ad3dff67.png": "/MoslemApps/static/media/Abdur-Rahman as-Sudais.ad3dff67.png",
     "static/media/Saad al-Ghamdi.ca66ec22.png": "/MoslemApps/static/media/Saad al-Ghamdi.ca66ec22.png",
     "static/media/quran.2c7b7dec.png": "/MoslemApps/static/media/quran.2c7b7dec.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3141e7ce.js",
-    "static/js/2.ac950b08.chunk.js",
-    "static/css/main.3c0f1a78.chunk.css",
-    "static/js/main.3b408cd2.chunk.js"
+    "static/js/runtime-main.2e0f6259.js",
+    "static/js/2.46c4933c.chunk.js",
+    "static/css/main.eb3253d7.chunk.css",
+    "static/js/main.0590f359.chunk.js"
   ]
 }
